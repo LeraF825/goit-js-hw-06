@@ -18,5 +18,5 @@ const date = {
     password:inputPassword.value
 }
 console.log(date);
-fprm.reset();
+form.reset();
 }
